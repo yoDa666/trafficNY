@@ -1,6 +1,7 @@
 # trafficNY
 
 
+Best practice: Copy this repository to a local folder
 
 the repository includes 
 
