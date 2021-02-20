@@ -13,15 +13,15 @@ directory data:
   
   
 librabies used:  
-  json 
-  urllib
-  pandas
-  matplotlib.pyplot
-  math
-  seaborn
-  numpy
-  scipy.stats.mstats
-  sklearn.neighbors
+  json, 
+  urllib,
+  pandas,
+  matplotlib.pyplot,
+  math,
+  seaborn,
+  numpy,
+  scipy.stats.mstats,
+  sklearn.neighbors,
   sklearn.model_selection
  
  First.py
