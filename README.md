@@ -13,16 +13,16 @@ directory data:
   
   
 librabies used:  
-  import json
-  import urllib.request
-  import pandas
-  import matplotlib.pyplot
-  from math import sin, cos, sqrt, atan2, radians
-  import seaborn
-  import numpy
-  from scipy.stats.mstats import mquantiles
-  from sklearn.neighbors import KernelDensity
-  from sklearn.model_selection import GridSearchCV 
+  json 
+  urllib
+  pandas
+  matplotlib.pyplot
+  math
+  seaborn
+  numpy
+  scipy.stats.mstats
+  sklearn.neighbors
+  sklearn.model_selection
  
  First.py
  You can run this code from any IDE. It includes a lot of prints as logging :) 
