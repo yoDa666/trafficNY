@@ -26,7 +26,7 @@ librabies used:
   sklearn.model_selection
  
  FirstDataAnalysis.ipynb
- this is a jupyter notebook with the same python code. 
+ this is a jupyter notebook with the python code. 
  You can run this in the jupyter environment. 
  It can be seen as the results file describing the key insights very briefly.
  
