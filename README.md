@@ -25,12 +25,9 @@ librabies used:
   sklearn.neighbors,
   sklearn.model_selection
  
- First.py
- You can run this code from any IDE. It includes a lot of prints as logging :) 
- 
  FirstDataAnalysis.ipynb
  this is a jupyter notebook with the same python code. 
- You can also run this in the jupyter environment. 
+ You can run this in the jupyter environment. 
  It can be seen as the results file describing the key insights very briefly.
  
  
